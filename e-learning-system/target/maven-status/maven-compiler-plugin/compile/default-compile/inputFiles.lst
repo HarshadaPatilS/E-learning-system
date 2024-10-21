@@ -1,0 +1,7 @@
+/workspaces/E-learning-system/e-learning-system/src/main/java/com/example/elearning/ElearningSystemApplication.java
+/workspaces/E-learning-system/e-learning-system/src/main/java/com/example/elearning/controller/LoginController.java
+/workspaces/E-learning-system/e-learning-system/src/main/java/com/example/elearning/service/CourseService.java
+/workspaces/E-learning-system/e-learning-system/src/main/java/com/example/elearning/controller/HomeController.java
+/workspaces/E-learning-system/e-learning-system/src/main/java/com/example/elearning/repository/CourseRepository.java
+/workspaces/E-learning-system/e-learning-system/src/main/java/com/example/elearning/controller/CourseController.java
+/workspaces/E-learning-system/e-learning-system/src/main/java/com/example/elearning/model/Course.java
